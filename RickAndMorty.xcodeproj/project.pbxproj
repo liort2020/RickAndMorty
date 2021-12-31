@@ -208,10 +208,7 @@
 		49A3A8F5277F8AC100B0FF0F /* ShareButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareButtonView.swift; sourceTree = "<group>"; };
 		49A3A8F8277F93C700B0FF0F /* UIApplication+keyWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIApplication+keyWindow.swift"; sourceTree = "<group>"; };
 		49A3A8FA277FA17E00B0FF0F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		49A3A8FC277FBFA800B0FF0F /* SearchScreenRecording.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SearchScreenRecording.gif; sourceTree = "<group>"; };
 		49A3A8FD277FBFA800B0FF0F /* RickAndMortyAppArchitecture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RickAndMortyAppArchitecture.png; sourceTree = "<group>"; };
-		49A3A8FE277FBFAA00B0FF0F /* CharactersScreenRecording.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = CharactersScreenRecording.gif; sourceTree = "<group>"; };
-		49A3A8FF277FBFAA00B0FF0F /* EpisodesScreenRecording.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = EpisodesScreenRecording.gif; sourceTree = "<group>"; };
 		4FF3E258C7EEBF55C736141D /* Pods-RickAndMorty-RickAndMortyUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RickAndMorty-RickAndMortyUITests.debug.xcconfig"; path = "Target Support Files/Pods-RickAndMorty-RickAndMortyUITests/Pods-RickAndMorty-RickAndMortyUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		538D360855E83CE48FD8618F /* Pods_RickAndMortyPerformanceTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RickAndMortyPerformanceTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6694C314B4AB281A680DD2A1 /* Pods_RickAndMorty_RickAndMortyUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RickAndMorty_RickAndMortyUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -762,10 +759,7 @@
 		498B4F01277C8810009C61F1 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				49A3A8FE277FBFAA00B0FF0F /* CharactersScreenRecording.gif */,
-				49A3A8FF277FBFAA00B0FF0F /* EpisodesScreenRecording.gif */,
 				49A3A8FD277FBFA800B0FF0F /* RickAndMortyAppArchitecture.png */,
-				49A3A8FC277FBFA800B0FF0F /* SearchScreenRecording.gif */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
