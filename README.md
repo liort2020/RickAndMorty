@@ -8,7 +8,7 @@ RickAndMorty is an application that fetches a list of Rick and Morty characters.
 
 ## Architecture
 
-![Screenshot](https://github.com/liort2020/RickAndMortyApp/blob/master/Assets/RickAndMortyAppArchitecture.png)
+![Screenshot](https://github.com/liort2020/RickAndMorty/blob/master/Assets/RickAndMortyAppArchitecture.png)
 
 This application developed in `SwiftUI`, `async/await`, `TaskGroup`, `Combine`. Implemented in `MVVM`, and `Clean Architecture` with three layers:
 - **Presentation layer**
@@ -109,10 +109,10 @@ Run UI tests:
 ### Screen recording
 
 1. List of characters
-  <img src="https://github.com/liort2020/RickAndMortyApp/blob/master/Assets/CharactersScreenRecording.gif" width="220"/>
+  <img src="https://github.com/liort2020/RickAndMorty/blob/master/Assets/CharactersScreenRecording.gif" width="220"/>
 
 2. Search characters
-  <img src="https://github.com/liort2020/RickAndMortyApp/blob/master/Assets/SearchScreenRecording.gif" width="220"/>
+  <img src="https://github.com/liort2020/RickAndMorty/blob/master/Assets/SearchScreenRecording.gif" width="220"/>
 
 3. List of episodes
-  <img src="https://github.com/liort2020/RickAndMortyApp/blob/master/Assets/EpisodesScreenRecording.gif" width="220"/>
+  <img src="https://github.com/liort2020/RickAndMorty/blob/master/Assets/EpisodesScreenRecording.gif" width="220"/>

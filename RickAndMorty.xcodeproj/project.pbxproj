@@ -192,6 +192,9 @@
 		498B4F7B277DA566009C61F1 /* CharactersListViewRouting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersListViewRouting.swift; sourceTree = "<group>"; };
 		498B4F7D277DA5DB009C61F1 /* CharacterDetailsViewRouting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterDetailsViewRouting.swift; sourceTree = "<group>"; };
 		498B4F7F277DA5EA009C61F1 /* EpisodeDetailsViewRouting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EpisodeDetailsViewRouting.swift; sourceTree = "<group>"; };
+		4996D942277FC8FB00C1B1D1 /* EpisodesScreenRecording.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = EpisodesScreenRecording.gif; sourceTree = "<group>"; };
+		4996D943277FC8FB00C1B1D1 /* SearchScreenRecording.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SearchScreenRecording.gif; sourceTree = "<group>"; };
+		4996D944277FC8FC00C1B1D1 /* CharactersScreenRecording.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = CharactersScreenRecording.gif; sourceTree = "<group>"; };
 		49A3A8D7277EDC4300B0FF0F /* FakeEpisodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FakeEpisodes.swift; sourceTree = "<group>"; };
 		49A3A8D9277EDD7900B0FF0F /* mock_episode.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = mock_episode.json; sourceTree = "<group>"; };
 		49A3A8DD277EE94100B0FF0F /* DIContainerPerformanceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DIContainerPerformanceTests.swift; sourceTree = "<group>"; };
@@ -760,6 +763,9 @@
 			isa = PBXGroup;
 			children = (
 				49A3A8FD277FBFA800B0FF0F /* RickAndMortyAppArchitecture.png */,
+				4996D944277FC8FC00C1B1D1 /* CharactersScreenRecording.gif */,
+				4996D942277FC8FB00C1B1D1 /* EpisodesScreenRecording.gif */,
+				4996D943277FC8FB00C1B1D1 /* SearchScreenRecording.gif */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
